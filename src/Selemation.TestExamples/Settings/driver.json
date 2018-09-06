@@ -1,0 +1,4 @@
+﻿{
+  "DriverType": "LocalChromeDriver",
+  "SeleniumServer": "https://selenium.net/wd/hub"
+}

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selemation.DriverNUnit", "Selemation.DriverNUnit\Selemation.DriverNUnit.csproj", "{BF03A90D-7D52-457E-8C71-74A0A6486C12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selemation.Tools", "Selemation.Tools\Selemation.Tools.csproj", "{CBE03B4E-E27D-431C-A24B-61D848FEDE98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selemation.Driver", "Selemation.Driver\Selemation.Driver.csproj", "{DF507497-C724-47C7-8E5E-DD268B040127}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selemation.DriverExtensions", "Selemation.DriverExtensions\Selemation.DriverExtensions.csproj", "{017F31B4-4435-4C03-9728-2F0C8BB1B559}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selemation.TestExamples", "Selemation.TestExamples\Selemation.TestExamples.csproj", "{96C47A3F-398E-4AC2-95ED-466F259401AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF03A90D-7D52-457E-8C71-74A0A6486C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF03A90D-7D52-457E-8C71-74A0A6486C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF03A90D-7D52-457E-8C71-74A0A6486C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF03A90D-7D52-457E-8C71-74A0A6486C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE03B4E-E27D-431C-A24B-61D848FEDE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE03B4E-E27D-431C-A24B-61D848FEDE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE03B4E-E27D-431C-A24B-61D848FEDE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE03B4E-E27D-431C-A24B-61D848FEDE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF507497-C724-47C7-8E5E-DD268B040127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF507497-C724-47C7-8E5E-DD268B040127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF507497-C724-47C7-8E5E-DD268B040127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF507497-C724-47C7-8E5E-DD268B040127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017F31B4-4435-4C03-9728-2F0C8BB1B559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017F31B4-4435-4C03-9728-2F0C8BB1B559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017F31B4-4435-4C03-9728-2F0C8BB1B559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017F31B4-4435-4C03-9728-2F0C8BB1B559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C47A3F-398E-4AC2-95ED-466F259401AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C47A3F-398E-4AC2-95ED-466F259401AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C47A3F-398E-4AC2-95ED-466F259401AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C47A3F-398E-4AC2-95ED-466F259401AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17EBC421-3773-436D-96C1-ABF5BB3959F0}
+	EndGlobalSection
+EndGlobal

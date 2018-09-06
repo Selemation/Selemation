@@ -1,0 +1,21 @@
+﻿{
+  //"DriverType": "LocalChromeDriver",
+  "DriverType": "RemoteDriver",
+  "SeleniumServer": "https://selenium/wd/hub",
+  "Capabilities": {
+    "name": "Autotest"
+  },
+  /* capabilities for sause labs
+   "Capabilities": {
+    "browserName": "Chrome",
+    "version": "68",
+    "platform": "Windows 10",
+    "deviceName": "",
+    "deviceOrientation": "",
+    "username": "-",
+    "accessKey": "-",
+    "extendedDebugging": "true",
+    "name": "Autotest"
+  },*/
+  "PassBuildToCapabilitiesFromEnvVariable": "VAR_NAME"
+}

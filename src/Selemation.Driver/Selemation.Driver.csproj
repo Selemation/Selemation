@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+    <PackageId>Selemation.Driver</PackageId>
+    <Authors></Authors>
+    <Company></Company>
+    <Product>Selemation.Driver</Product>
+    <Description>Auto test framework with helpers for selenium</Description>
+    <Copyright></Copyright>
+    <PackageProjectUrl>https://github.com/Selemation/Selemation</PackageProjectUrl>
+    <PackageIconUrl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpxIdt5XItVypLo7LSSX3f9_-Hda-L3KDa30NuzwazBNWsp0rDQ</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Selemation/Selemation.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    
+    <PackageReference Include="Selenium.WebDriver" Version="3.13.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Selemation.DriverExtensions\Selemation.DriverExtensions.csproj" />
+  </ItemGroup>
+
+</Project>
